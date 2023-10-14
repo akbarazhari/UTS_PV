@@ -1,0 +1,55 @@
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+C:\Users\user\Documents\SharpDevelop Projects\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+C:\Users\user\Downloads\lab semester 4\pv\[UTS][PV3][Altaha_056][RubenhardLumbantobing_065][FachriNabasya_151401128]\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+C:\Users\user\Downloads\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+C:\Users\altaha\Documents\ALTAHA\kuliah\semester 4\lab semester 4\pv\uts\UTSPV3\UTSPV3\bin\Debug\MySql.Data.dll
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+D:\Kuliah\Lab\Semester 4\PV\peternakanaltaha\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+D:\pv\UTSPV3\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+D:\pv\UTSPV3\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+D:\pv\UTSPV3\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+D:\pv\UTSPV3\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+D:\pv\UTSPV3\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+D:\pv\UTSPV3\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+D:\pv\UTSPV3\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.exe
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\bin\Debug\UTSPV3.pdb
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
+D:\pv\UTSPV3\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.pdb
+D:\Kuliah\Lab\Semester 4\PV\5(UTS)\PV1_UTS_191401064\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csprojResolveAssemblyReference.cache
+D:\Kuliah\Lab\Semester 4\PV\5(UTS)\PV1_UTS_191401064\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.MainForm.resources
+D:\Kuliah\Lab\Semester 4\PV\5(UTS)\PV1_UTS_191401064\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.csproj.GenerateResource.Cache
+D:\Kuliah\Lab\Semester 4\PV\5(UTS)\PV1_UTS_191401064\uts\UTSPV3\UTSPV3\obj\Debug\UTSPV3.exe
